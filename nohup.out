@@ -1,0 +1,6 @@
+[master f076f74] appending...
+ 3 files changed, 8 insertions(+), 7 deletions(-)
+ create mode 100644 nohup.out
+To github.com:unixma/test.git
+   dcbbaa9..f076f74  master -> master
+Branch master set up to track remote branch master from origin.
