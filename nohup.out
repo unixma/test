@@ -9,3 +9,9 @@ Branch master set up to track remote branch master from origin.
 To github.com:unixma/test.git
    f076f74..2fc5f1e  master -> master
 Branch master set up to track remote branch master from origin.
+[master 4c3e9cf] appending...
+ 2 files changed, 6 insertions(+)
+Warning: Permanently added the RSA host key for IP address '13.250.177.223' to the list of known hosts.
+To github.com:unixma/test.git
+   2fc5f1e..4c3e9cf  master -> master
+Branch master set up to track remote branch master from origin.
